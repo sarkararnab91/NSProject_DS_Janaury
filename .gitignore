@@ -1,0 +1,5 @@
+# vnv file for virtual environment
+pvenv/
+
+# environment file
+.env
